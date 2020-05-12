@@ -59,7 +59,20 @@ Github>Settings>Gighub Pages>Source>master branch/docs folder
 
 ## 使い方
 
-総合的なウェブサイトなので詳細はcontent参照のこと
+### 投稿
+
+新規ポートフォリオ
+
+```shell
+hugo new blog/hello.md
+content/blog/hello.md created
+```
+
+編集
+
+```shell
+vi content/blog/hello.md
+```
 
 ## Github連携
 

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://higebobo.github.io/hugo-liva/blog/hello/</loc>
+    <lastmod>2020-05-12T14:57:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://higebobo.github.io/hugo-liva/</loc>
+    <lastmod>2020-05-12T14:57:23+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://higebobo.github.io/hugo-liva/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>https://higebobo.github.io/hugo-liva/contact/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://higebobo.github.io/hugo-liva/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
   
