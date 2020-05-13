@@ -5,7 +5,7 @@
 サイト作成
 
 ```shell
-hugo new site hugo-syna
+hugo new site hugo-liva
 ```
 
 レポジトリ初期化
