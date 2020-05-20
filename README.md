@@ -57,11 +57,13 @@ git push -u origin master
 
 Github>Settings>Gighub Pages>Source>master branch/docs folder
 
-## Github Actionsの利用
+## 既存のレポジトリからクローンする場合
 
-* .github/workflows/gh-pages.yamlを作成
-    * ソースはmasterブランチ
-    * 出力はpublicフォルダの内容をgh-pagesブランチ
+```shell
+git clone git@github.com:higebobo/hugo-liva.git higebobo-liva
+cd higebobo-liva
+git submodule update --init --recursive
+```
 
 ## 使い方
 
@@ -78,15 +80,6 @@ content/blog/hello.md created
 
 ```shell
 vi content/blog/hello.md
-```
-
-## Github連携
-
-config.tomlに以下の設定があることを確認
-
-```toml
-baseURL = "https://higebobo.github.com/hugo-liva/"
-publishDir = "docs"
 ```
 
 公開(githubにプッシュ)
