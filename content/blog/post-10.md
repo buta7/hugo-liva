@@ -1,6 +1,6 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
+title: "Post 10: How To Use Checklists To Improve Your UX"
+date: 2019-10-10T10:07:47+06:00
 draft: false
 
 # post thumb

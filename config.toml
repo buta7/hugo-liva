@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://higebobo.github.io/hugo-liva/"
+baseURL = "https://buta7.github.io/hugo-liva/"
 languageCode = "ja"
 title = "Hugo Liva"
 theme = "liva-hugo"
